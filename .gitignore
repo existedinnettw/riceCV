@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__
+
+*.v2
+*.zip
+*.pb
+*.index
+*.tfrecord
+*.csv
+*.jpg
+*.JPG
+*.data-*-of-*
+ckpt-*
+checkpoint
